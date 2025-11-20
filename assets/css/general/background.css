@@ -1,0 +1,11 @@
+body {
+    background-color: #ffffff;
+    background-image: radial-gradient(circle, #e8e5e1 1px, transparent 1px);
+    background-size: 20px 20px;
+}
+
+.gh-head {
+    background-color: #ffffff;
+    background-image: radial-gradient(circle, #e8e5e1 1px, transparent 1px);
+    background-size: 20px 20px;
+}
